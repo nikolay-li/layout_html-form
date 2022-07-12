@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,SACE,kBACF,CAEA,MACE,kBACF","file":"style.b5cec4e4.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n\nfieldset {\n  margin-bottom: 20px;\n}\n\n.line {\n  margin-bottom: 10px;\n}\n"]}
